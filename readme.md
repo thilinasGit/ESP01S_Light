@@ -15,7 +15,7 @@ Options are as follows.
 3. Last state ( Relay is restored to the state before power toggle)
 4. Power toggle controlled ( Used to turn the relay ON and off using power toggle, Always restore the oposite state before the power toggle)
 
-Additionally the background of the interface become darker when light off link is selected. This is used to lower brightness for eye comfort when its been used control a 
+Additionally the background of the interface become darker when light off. This is used to lower brightness for eye comfort when its been used control a 
 light.
 
 Programmed using uart and must use a 3v3 supported UART to usb adapter or a 3v3 dev board.
