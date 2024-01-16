@@ -6,7 +6,7 @@ HOW TO USE
 
 Simply connect to the access point(Hotspot) created by the module using wifi, 
 it will appear as LightAP and the password is 12345678. 
-Then goto http://192.168.4.1 using a browser and use the links to controll the relay. There are few useful settings in settings page.
+Then goto http://192.168.4.1 using a browser and use the links to control the relay. There are few useful settings in settings page.
 It can be used to change what state the relay should be after a boot (default state).
 
 Options are as follows.
