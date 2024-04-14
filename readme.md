@@ -23,8 +23,11 @@ Programmed using uart and must use a 3v3 supported UART to usb adapter or a 3v3 
 Please note the code provided is without gurantee. Use at your own risk. 
 
 PDF file: Print it using a laser printer or a photocopier on a gloss paper without flipping and in actual sale for diy pcb etching.
+
 JASON file : EasyEDA project file.
+
 Images: Schematic and 3D board view
+
 *Use a 4x4 female header(PH socket) as a base for the ESP01s of there will be no head room for components underneath the ESP board.
 
 Caution !
