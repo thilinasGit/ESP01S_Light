@@ -28,7 +28,9 @@ JASON file : EasyEDA project file.
 
 Images: Schematic and 3D board view
 
-*Use a 4x4 female header(PH socket) as a base for the ESP01s of there will be no head room for components underneath the ESP board.
+csv file : contains BOM without female pin header.
+
+*Use a 4x4 female header(PH socket) as a base for the ESP01s, if not there will be no head room for components underneath the ESP board.
 
 Caution !
-Board contain risk of electric shock and fire hazard if adequate precautions arent followed. Use at your own risk.
+Board contain risk of electric shock and fire hazard if adequate precautions aren't followed. Use at your own risk.
